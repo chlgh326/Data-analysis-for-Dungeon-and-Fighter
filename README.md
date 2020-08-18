@@ -17,6 +17,10 @@
 - 기간: 8/4 ~ 8/18일 (현재 적용: 8/4 ~ 8/7일) 
 
 
+## 코드 링크 
+
+https://www.kaggle.com/chimiro/d-f-data-analysis
+
 ## 데이터 분석 (8/23일 완료 예정)
 #### Table of contents
 * [Data crawling](#1) 
