@@ -28,7 +28,7 @@
 * [Initial Exploration](#3) 
 * [Data Cleansing](#4) 
 * [Feature engineering](#5) 
-* [Data Partitioning](#6)       <== (현재 진행 중인 위치)
+* [Data Partitioning](#6)       (현재 진행 중인 위치)
 * [Modeling - XGboost](#7)
 * [Check Feature Importance](#8)
 * [Feature selection](#9)
